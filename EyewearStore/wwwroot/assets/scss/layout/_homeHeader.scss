@@ -1,0 +1,374 @@
+/* for header  */
+
+.header__all {
+    position: absolute;
+    transform: translate(0%, 20%);
+    left: 30px;
+    top: 0;
+    z-index: 125555553;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    /* gap: 30px; */
+}
+
+.home__header {
+    width: 100% !important;
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+}
+
+.header__left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 34.3%;
+
+    a {
+        text-decoration: none;
+        color: rgba(0, 0, 0, 0.701);
+        font-size: 22px;
+    }
+}
+
+.header__middle {
+    width: 33.3%;
+
+    img {
+        width: 150px;
+    }
+
+    i {
+        display: none;
+    }
+}
+
+.header__top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.header__buttom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.header__right {
+
+    /* width: 33.3; */
+    ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+
+        li {
+            list-style: none;
+            font-size: 19px;
+        }
+    }
+}
+
+
+@media only screen and (max-width: 1300px) {
+    .header__left {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .header__left {
+        display: none;
+    }
+
+    .header__right {
+        display: none;
+    }
+
+    .home__header {
+        display: flex;
+        justify-content: center !important;
+        align-items: center;
+
+        .header__middle {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 20px;
+
+            i {
+                display: block;
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* section1 design  */
+
+.section1 {
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/hero-01.png");
+    opacity: 2;
+    height: 800px;
+    transition: .3s, border-radius .3s, opacity .3s;
+    background-color: rgba(221, 160, 221, 0.211);
+}
+
+.img__div {
+    width: 99%;
+    /* height: 100svh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.inside {
+    padding-top: 7em;
+    position: absolute;
+    /* width: 70%; */
+    top: 0;
+    left: 0;
+    width: 70% !important;
+    z-index: 156;
+    transform: translate(10%, 40%);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.inside__1 {
+    h5 {
+        font-size: 20px;
+    }
+}
+
+.inside__2 {
+    width: 30%;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Yeseva One', display;
+
+    font-size: 70px;
+}
+
+
+
+.inside__4:hover {
+    background-color: black;
+
+    button {
+        color: white;
+    }
+}
+
+.first_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+    img {
+        margin-right: 100px;
+    }
+}
+
+.inside__3 {
+    width: 80%;
+    color: rgba(0, 0, 0, 0.717);
+    font-size: 20px;
+}
+
+.inside__4 {
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    button {
+        width: 100%;
+        height: 40px;
+        background-color: transparent;
+        border: none !important;
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .inside {
+        padding-top: 7em;
+        position: absolute;
+        /* width: 70%; */
+        top: 0;
+        left: 0;
+        width: 70% !important;
+        z-index: 156;
+        transform: translate(10%, 10%);
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    
+    }
+    }
+
+
+@media only screen and (max-width: 900px) {
+    .inside {
+        padding-top: 7em;
+        position: absolute;
+        /* width: 70%; */
+        top: 0;
+        left: 0;
+        width: 70% !important;
+        z-index: 156;
+        transform: translate(10%, 30%);
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    
+    }
+
+    .section1{
+        /* min-height: 100%; */
+    }
+    .inside{
+        padding-top: 6em;
+    }
+    .inside__1{
+        h5{
+            font-size: 28px;
+        }
+       
+    }
+
+    .inside__2{
+        h1{
+            font-size: 60px;
+        }
+    }
+    .inside__3{
+        font-size: 17px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    
+}
+
+@media only screen and (max-width: 1400px) {
+
+    .inside {
+        width: 80%;
+
+        .inside__3 {
+            width: 100%;
+        }
+    }
+
+}
+@media only screen and (max-width: 850px) {
+   .inside{
+    padding-top: 10em;
+   }
+}
+
+@media only screen and (max-width: 450px) {
+    .section1 img {
+        /* width: 260px; */
+        /* height: 100vh !important; */
+
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    .section1{
+        height: 600px;
+    }
+    .inside {
+        /* width: 80% !important; */
+
+        .inside__1 {
+            width: 100% ;
+        }
+
+    }
+    .inside {
+        padding-top: 7em;
+        position: absolute;
+        /* width: 70%; */
+        top: 0;
+        left: 0;
+        width: 70% !important;
+        z-index: 156;
+        transform: translate(10%, 20%);
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    .inside {
+        padding-top: 7em;
+        position: absolute;
+        /* width: 70%; */
+        top: 0;
+        left: 0;
+        width: 70% !important;
+        z-index: 156;
+        transform: translate(10%, 20%);
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    
+    }
+   .inside__1{
+    h5{
+        font-size: 25px;
+    }
+   }
+   .inside__2{
+    h1{
+        font-size: 45px;
+    }
+   }
+   .inside__3{
+   }
+   .inside__4{
+    /* display: none; */
+   }    
+}

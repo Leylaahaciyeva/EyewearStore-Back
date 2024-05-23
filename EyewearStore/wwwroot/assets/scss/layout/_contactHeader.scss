@@ -1,0 +1,160 @@
+/* for header  */
+
+.header__all_ab {
+    position: absolute;
+    transform: translate(0%, 20%);
+    left: 20px;
+    top: 0px;
+    z-index: 123;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    /* gap: 30px; */
+}
+
+.home__header_ab {
+    width: 100% !important;
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+}
+
+.header__left_ab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 33.3%;
+
+    a {
+        text-decoration: none;
+        color: rgba(0, 0, 0, 0.701);
+        font-size: 26px;
+    }
+}
+
+.header__middle_ab {
+    width: 33.3%;
+
+    img {
+        width: 150px;
+    }
+
+    i {
+        display: none;
+    }
+}
+
+.header__top_ab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.header__buttom_ab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.header__right_ab {
+
+    /* width: 33.3; */
+    ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+
+        li {
+            list-style: none;
+            font-size: 19px;
+        }
+    }
+}
+
+
+@media only screen and (max-width: 1300px) {
+    .header__left_ab {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .header__left_ab {
+        display: none;
+    }
+
+    .header__right_ab {
+        display: none;
+    }
+
+    .home__header_ab {
+        display: flex;
+        justify-content: center !important;
+        align-items: center;
+
+        .header__middle_ab {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            gap: 20px;
+
+            i {
+                display: block;
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+
+
+/* section 1 design   */
+
+
+.img__div_Contact {
+    position: relative;
+}
+
+.inside_Contact {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    z-index: 12;
+
+    h1 {
+        font-size: 100px;
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+
+.Contact__img {
+    height: 60vh;
+    width: 100%;
+}
+
+@media only screen and (max-width: 790px) {
+   .inside_Contact{
+    position: absolute;
+    transform: translate(0%, 0%);
+    top: 40%;
+    left: 30%;
+    z-index: 12;
+
+
+    h1{
+        font-size: 50px;
+    }
+   }
+    }

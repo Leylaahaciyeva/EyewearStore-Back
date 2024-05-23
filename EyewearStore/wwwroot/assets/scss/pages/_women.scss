@@ -1,0 +1,111 @@
+
+
+
+/* section1 design  */
+.Men__Section1{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+.Men__Sec1__top{
+    font-size: 18px;
+color: gray;
+}
+.MenSec1__buttom{
+    font-size: 100px;
+    font-family: serif;
+}
+
+.Men__Sec1__all{
+    /* border: 1px solid black; */
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+
+
+
+  /* section2 design  */
+  .Mensection2{
+    margin-top: 70px;
+}
+.men__Image{
+display: none;
+}
+.MenCard1:hover{
+img{
+    display: none;
+}
+.men__Image{
+    display: flex;
+   img{
+    display: flex;
+   }
+}
+}
+
+.men__Card__Row{
+    margin-top: 20px !important;
+}
+
+.MenCard1{
+border: none !important;
+}
+.section2__difference{
+display: flex;
+justify-content: space-between;
+align-items: center;
+/* width: 93%; */
+
+select{
+    margin-right: 60px;
+    height: 40px;
+    width: 140px;
+    border: none;
+    color: gray;
+    font-size: 19px;
+}
+}
+
+@media only screen and (max-width: 1200px) {
+   .section2__difference{
+    select{
+        margin-right: 40px;
+    }
+   }
+    }
+
+    @media only screen and (max-width: 800px) {
+        .section2__difference{
+         select{
+             margin-right: 20px;
+         }
+        }
+         }
+
+         @media only screen and (max-width: 400px) {
+            .section2__difference{
+             h5{
+                font-size: 15px;
+                color: red;
+             }
+            }
+             }
+
+@media only screen and (max-width: 1200px) {
+.MenCard1{
+width: 18rem !important;
+}
+}
+@media only screen and (max-width: 770px) {
+.MenCard1{
+    width: 100% !important;
+}
+
+}
