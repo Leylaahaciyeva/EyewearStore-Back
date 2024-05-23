@@ -1,4 +1,5 @@
 using EyewearStore.Contexts;
+using Microsoft.EntityFrameworkCore;
 
 namespace EyewearStore;
 
@@ -25,7 +26,7 @@ public class Program
         {
             endpoints.MapControllerRoute(
               name: "areas",
-              pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+              pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
             );
         });
 
@@ -36,4 +37,4 @@ public class Program
 
         app.Run();
     }
-}
+}   

@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using EyewearStore.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace EyewearStore.Contexts;
 
@@ -8,4 +9,6 @@ public class AppDbContext:DbContext
     {
             
     }
+    public DbSet<Product> Products { get; set; } = null!;
+    public DbSet<Category> Categories { get; set; } = null!;
 }

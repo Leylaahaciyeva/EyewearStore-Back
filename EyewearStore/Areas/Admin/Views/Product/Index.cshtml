@@ -1,0 +1,73 @@
+﻿@model List<Product>
+@{
+    int count = 1;
+}
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Products</h4>
+            <p class="card-description">
+                <a asp-action="Create" class="btn btn-success text-white">Create</a>
+            </p>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                #
+                            </th>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                Name
+                            </th>
+                            <th>
+                                Price
+                            </th>
+                            <th>
+                                Category
+                            </th>
+                            <th>
+                                Actions
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Product product in Model)
+                        {
+
+                            <tr>
+                                <td>
+                                    @(count++)
+                                </td>
+                                <td class="py-1">
+                                    <img src="~/assets/image/@product.ProductImages.FirstOrDefault(x=>x.IsMain)?.Path " />
+                                </td>
+                                <td>
+                                    @product.Name
+                                </td>
+                                <td>
+                                    @product.Price
+                                </td>
+                                <td>
+                                    @product.Category.Name
+                                </td>
+                                <td>
+                                    <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-warning">
+                                        <i class="mdi mdi-auto-fix"></i>
+                                    </a>
+                                    <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">
+                                        <i class="mdi mdi-delete-variant"></i>
+                                    </a>
+                                </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

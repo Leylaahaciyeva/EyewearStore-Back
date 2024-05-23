@@ -1,0 +1,90 @@
+﻿@model ProductCreateVM
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create Product</h4>
+
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" placeholder="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description">Description</label>
+                <input asp-for="Description" class="form-control" placeholder="Description">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" placeholder="Price">
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Size"></label>
+                <input asp-for="Size" class="form-control" placeholder="Size">
+                <span asp-validation-for="Size" class="text-danger"></span>
+            </div>
+
+
+
+            <div class="form-group">
+                <label asp-for="LensInformations"></label>
+                <input asp-for="LensInformations" class="form-control" placeholder="Lens informations">
+                <span asp-validation-for="LensInformations" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Gender"></label>
+                <input asp-for="Gender" class="form-control" placeholder="Gender">
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+
+
+
+
+            <div class="form-group">
+
+                <select asp-for="CategoryId">
+                    <option selected disabled>Category secin</option>
+                    @foreach (Category category in ViewBag.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+            </div>
+
+
+
+         
+
+
+
+            <div class="form-group">
+                <label asp-for="MainImage"></label>
+                <input asp-for="MainImage" class="form-control" placeholder="Main Image">
+                <span asp-validation-for="MainImage" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="HoverImage"></label>
+                <input asp-for="HoverImage" class="form-control" placeholder="Hover Image">
+                <span asp-validation-for="HoverImage" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="AdditionalImages"></label>
+                <input asp-for="AdditionalImages" class="form-control" placeholder="Additional Image">
+                <span asp-validation-for="AdditionalImages" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary me-2">Submit</button>
+            <button class="btn btn-light" asp-action="index">Cancel</button>
+        </form>
+    </div>
+</div>
