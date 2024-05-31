@@ -7,9 +7,22 @@ public static class FileValidator
         return file.Length < mb * 1024 * 1024;
     }
 
-    public static bool ValidateType(this IFormFile file, string type)
+    public static bool ValidateType(this IFormFile file, string type= "image")
     {
         return file.ContentType.Contains(type);
+    }
+    public static bool ValidateImage(this IFormFile file, int mb = 2)
+    {
+        if (!file.ValidateType())
+        {
+            return false;
+        };
+        if (!file.ValidateSize(mb))
+        {
+            return false;
+        }
+
+        return true;
     }
 
     public static async Task<string> FileCreateAsync(this IFormFile file, params string[] roots)

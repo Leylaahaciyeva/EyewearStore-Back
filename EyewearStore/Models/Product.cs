@@ -13,4 +13,5 @@ public class Product : BaseEntity
     public Category Category { get; set; } = null!;
     public int CategoryId { get; set; }
     public ICollection<ProductImage> ProductImages { get; set; }=new List<ProductImage>();
+ 
 }

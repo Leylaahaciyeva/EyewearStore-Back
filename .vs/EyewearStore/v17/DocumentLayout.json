@@ -3,28 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\viewmodels\\productviewmodels\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Migrations\\20240531163955_addedServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EyewearStore\\Migrations\\20240531163955_addedServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\viewmodels\\serviceviewmodels\\serviceupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\viewmodels\\serviceviewmodels\\serviceupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\viewmodels\\serviceviewmodels\\servicecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\areas\\admin\\viewmodels\\serviceviewmodels\\servicecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|c:\\users\\asus\\onedrive\\desktop\\asiman\\eyewearstore-back\\eyewearstore\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F224A4AB-A99C-4F59-8DC0-24DAF45B5126}|EyewearStore\\EyewearStore.csproj|solutionrelative:eyewearstore\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -90,8 +142,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAGEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T17:03:39.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Models\\ProductImage.cs",
+              "RelativeToolTip": "EyewearStore\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:45:03.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAywCYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:21:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Models\\Product.cs",
+              "RelativeToolTip": "EyewearStore\\Models\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:42:19.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAuwNAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:14:26.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T16:15:56.568Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -100,79 +238,179 @@
               "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAACwAAAAAAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwF4AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-23T16:31:02.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FileValidator.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Extensions\\FileValidator.cs",
               "RelativeDocumentMoniker": "EyewearStore\\Extensions\\FileValidator.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Extensions\\FileValidator.cs",
               "RelativeToolTip": "EyewearStore\\Extensions\\FileValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAFAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAkAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T16:26:22.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "EyewearStore\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Models\\Product.cs",
-              "RelativeToolTip": "EyewearStore\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T12:42:19.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:21:34.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCwAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T16:15:56.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAQwI8AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T16:14:26.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:23:32.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240531163955_addedServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Migrations\\20240531163955_addedServices.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Migrations\\20240531163955_addedServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Migrations\\20240531163955_addedServices.cs",
+              "RelativeToolTip": "EyewearStore\\Migrations\\20240531163955_addedServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:39:55.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceUpdateVM.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceUpdateVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceUpdateVM.cs",
+              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceUpdateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:24:14.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceCreateVM.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceCreateVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceCreateVM.cs",
+              "RelativeToolTip": "EyewearStore\\Areas\\Admin\\ViewModels\\ServiceViewModels\\ServiceCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:24:01.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EyewearStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EyewearStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAJUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T15:59:05.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "EyewearStore\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "EyewearStore\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAuwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T13:30:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EyewearStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:28:18.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "EyewearStore\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:17:08.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "EyewearStore\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:28:59.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EyewearStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EyewearStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAnwA8AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T13:27:42.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "EyewearStore\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "EyewearStore\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T13:29:05.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "EyewearStore\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "EyewearStore\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:29:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "CategoryUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryUpdateVM.cs",
               "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryUpdateVM.cs",
@@ -180,12 +418,11 @@
               "RelativeToolTip": "EyewearStore\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryUpdateVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:48:23.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:48:23.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Views\\Category\\Update.cshtml",
@@ -193,12 +430,11 @@
               "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Views\\Category\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T15:47:53.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:47:53.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -206,12 +442,11 @@
               "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T15:42:09.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:42:09.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "CategoryCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
               "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
@@ -219,12 +454,11 @@
               "RelativeToolTip": "EyewearStore\\Areas\\Admin\\ViewModels\\CategoryViewModels\\CategoryCreateVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:32:22.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:32:22.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -232,12 +466,11 @@
               "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T15:21:42.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:21:42.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -249,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -257,12 +490,11 @@
               "RelativeToolTip": "EyewearStore\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAFgAAAAAAAAAAAAUwG4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:18:12.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:18:12.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EyewearStore\\Views\\_ViewImports.cshtml",
@@ -274,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "20240523151717_addedProductsAndCategories.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Migrations\\20240523151717_addedProductsAndCategories.cs",
               "RelativeDocumentMoniker": "EyewearStore\\Migrations\\20240523151717_addedProductsAndCategories.cs",
@@ -286,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\appsettings.json",
               "RelativeDocumentMoniker": "EyewearStore\\appsettings.json",
@@ -298,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Program.cs",
               "RelativeDocumentMoniker": "EyewearStore\\Program.cs",
@@ -310,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EyewearStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -322,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "EyewearStore\\Models\\Common\\BaseEntity.cs",
@@ -331,18 +563,6 @@
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAAIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T12:42:46.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EyewearStore\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "EyewearStore\\Contexts\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T12:17:08.567Z"
             }
           ]
         }

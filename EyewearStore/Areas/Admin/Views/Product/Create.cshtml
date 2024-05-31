@@ -39,7 +39,12 @@
 
             <div class="form-group">
                 <label asp-for="Gender"></label>
-                <input asp-for="Gender" class="form-control" placeholder="Gender">
+                <select asp-for="Gender">
+                    <option selected disabled>Select Gender</option>
+                    <option value="@false">Male</option>
+                    <option value="@true">Female</option>
+                   
+                </select>          
                 <span asp-validation-for="Gender" class="text-danger"></span>
             </div>
 

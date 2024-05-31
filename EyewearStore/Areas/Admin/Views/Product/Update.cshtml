@@ -1,0 +1,132 @@
+﻿@model ProductUpdateVM
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Create Product</h4>
+
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" placeholder="Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description">Description</label>
+                <input asp-for="Description" class="form-control" placeholder="Description">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" class="form-control" placeholder="Price">
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Size"></label>
+                <input asp-for="Size" class="form-control" placeholder="Size">
+                <span asp-validation-for="Size" class="text-danger"></span>
+            </div>
+
+
+
+            <div class="form-group">
+                <label asp-for="LensInformations"></label>
+                <input asp-for="LensInformations" class="form-control" placeholder="Lens informations">
+                <span asp-validation-for="LensInformations" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Gender"></label>
+                <select asp-for="Gender">
+                    <option selected disabled>Select Gender</option>
+                    <option value="@false">Male</option>
+                    <option value="@true">Female</option>
+
+                </select>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+
+
+
+
+            <div class="form-group">
+
+                <select asp-for="CategoryId">
+                    <option selected disabled>Category secin</option>
+                    @foreach (Category category in ViewBag.Categories)
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                </select>
+            </div>
+
+
+
+
+
+
+            <img src="~/assets/image/@Model.MainImagePath" style="height:100px;width:100px" />
+            <div class="form-group">
+
+                <input asp-for="MainImagePath" type="hidden" />
+                <label asp-for="MainImage"></label>
+                <input asp-for="MainImage" class="form-control" placeholder="Main Image">
+                <span asp-validation-for="MainImage" class="text-danger"></span>
+            </div>
+
+
+            <img src="~/assets/image/@Model.HoverImagePath" style="height:100px;width:100px" />
+            <div class="form-group">
+                <input asp-for="HoverImagePath" type="hidden" />
+
+                <label asp-for="HoverImage"></label>
+                <input asp-for="HoverImage" class="form-control" placeholder="Hover Image">
+                <span asp-validation-for="HoverImage" class="text-danger"></span>
+            </div>
+
+
+            <br />
+            @for (int i = 0; i < Model.AdditionalImagePaths?.Count; i++)
+            {
+                var imagePath = Model.AdditionalImagePaths[i];
+
+                <div style="position: relative; display: inline-block; margin-right: 10px;">
+                    <div style="position: relative;">
+                        <img style="width: 100px; height: 100px;" class="primary-img"
+                             src="~/assets/image/@imagePath"
+                             alt="Product Images" />
+                        <button type="button" class="buttonRemove btn btn-danger" style="position: absolute; top: 0; right: 0; z-index: 1;">
+                            x
+                        </button>
+                        <input asp-for="AdditionalImagePaths" type="hidden" value="@imagePath" />
+                        <input asp-for="AdditionalImageIds" type="hidden" value="@Model.AdditionalImageIds[i]" />
+                    </div>
+
+                </div>
+            }
+            <div class="form-group">
+                <label asp-for="AdditionalImages"></label>
+                <input asp-for="AdditionalImages" class="form-control" placeholder="Additional Image">
+                <span asp-validation-for="AdditionalImages" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary me-2">Submit</button>
+            <button class="btn btn-light" asp-action="index">Cancel</button>
+        </form>
+    </div>
+</div>
+
+
+<script>
+    const removeButtons = document.querySelectorAll('.buttonRemove')
+
+
+    removeButtons.forEach((btn) => {
+        btn.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.target.parentElement.remove();
+        })
+    })
+</script>

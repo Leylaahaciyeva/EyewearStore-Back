@@ -18,6 +18,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Areas\Admin\Views\Service\Create.cshtml" />
+    <None Include="Areas\Admin\Views\Service\Index.cshtml" />
+    <None Include="Areas\Admin\Views\Service\Update.cshtml" />
     <None Include="wwwroot\admin\documentation\.DS_Store" />
     <None Include="wwwroot\admin\fonts\.DS_Store" />
     <None Include="wwwroot\admin\fonts\Roboto\.DS_Store" />

@@ -1,0 +1,30 @@
+﻿@model ServiceUpdateVM
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">Update Service</h4>
+
+        <form method="post" class="forms-sample" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="Title">Title</label>
+                <input asp-for="Title" class="form-control" placeholder="Title">
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description">Description</label>
+                <input asp-for="Description" class="form-control" placeholder="Description">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Icon">Icon</label>
+                <input asp-for="Icon" class="form-control" placeholder="Icon">
+                <span asp-validation-for="Icon" class="text-danger"></span>
+            </div>
+
+
+
+            <button type="submit" class="btn btn-primary me-2">Submit</button>
+            <button class="btn btn-light" asp-action="index">Cancel</button>
+        </form>
+    </div>
+</div>

@@ -151,4 +151,145 @@ public class ProductController : Controller
     }
 
 
+
+    public async Task<IActionResult> Update(int id)
+    {
+        var product = await _context.Products.Include(x=>x.ProductImages).FirstOrDefaultAsync(x => x.Id == id);
+
+        if (product is null)
+            return NotFound();
+
+
+        var categories = await _context.Categories.ToListAsync();
+        ViewBag.Categories = categories;
+
+
+        ProductUpdateVM vm = new()
+        {
+            AdditionalImageIds=product.ProductImages.Where(x=>!x.IsMain && !x.IsHover).Select(x=>x.Id).ToList(),
+            AdditionalImagePaths= product.ProductImages.Where(x => !x.IsMain && !x.IsHover).Select(x => x.Path).ToList(),
+            CategoryId=product.CategoryId,
+            Description=product.Description,
+            Gender=product.Gender,
+            HoverImagePath=product.ProductImages.FirstOrDefault(x=>x.IsHover)?.Path,
+            LensInformations=product.LensInformations,
+            MainImagePath=product.ProductImages.FirstOrDefault( x=>x.IsMain)?.Path,
+            Name=product.Name,
+            Price=product.Price,
+            Size = product.Size
+        };
+
+        return View(vm);
+
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Update(int id,ProductUpdateVM vm)
+    {
+        var categories = await _context.Categories.ToListAsync();
+        ViewBag.Categories = categories;
+
+        if (!ModelState.IsValid)
+            return View(vm);
+
+
+        var existProduct = await _context.Products.Include(x=>x.ProductImages).FirstOrDefaultAsync(x => x.Id == id);
+
+
+        if (existProduct is null)
+            return NotFound();
+
+
+        var isExistCategory = await _context.Categories.AnyAsync(x => x.Id == vm.CategoryId);
+        if (!isExistCategory)
+        {
+            ModelState.AddModelError("CategoryId", "This category is not found");
+            return View(vm);
+        }
+
+
+        #region ImageValidates
+
+
+
+        if (vm.MainImage is not null && !vm.MainImage.ValidateImage(2))
+        {
+            ModelState.AddModelError("MainImage", "Resim doğru formatda ve boyutu 2 mb dan az olmalıdır");
+            return View(vm);
+        }
+
+
+
+        if (vm.HoverImage is not null && !vm.HoverImage.ValidateImage(10))
+        {
+            ModelState.AddModelError("HoverImage", "Resim doğru formatda ve boyutu 10 mb dan az olmalıdır");
+            return View(vm);
+        }
+
+
+        foreach (IFormFile image in vm.AdditionalImages)
+        {
+            if (!image.ValidateImage(2))
+            {
+                ModelState.AddModelError("Images", "Resim doğru formatda ve boyutu 2 mb dan az olmalıdır");
+                return View(vm);
+            }
+        }
+
+
+        #endregion
+
+
+
+        var ExistedImages = existProduct.ProductImages.Where(x=>!x.IsMain && !x.IsHover).Select(x => x.Id).ToList();
+        if (vm.AdditionalImageIds is not null)
+        {
+            ExistedImages = ExistedImages.Except(vm.AdditionalImageIds).ToList();
+
+        }
+        if (ExistedImages.Count > 0)
+        {
+            foreach (var imageId in ExistedImages)
+            {
+                var deletedImage = existProduct.ProductImages.FirstOrDefault(x => x.Id == imageId);
+                if (deletedImage is not null)
+                {
+
+                    existProduct.ProductImages.Remove(deletedImage);
+                }
+
+            }
+        }
+
+        //Created new Images
+        if (vm.AdditionalImages is not null)
+        {
+            foreach (var item in vm.AdditionalImages)
+            {
+                ProductImage productImage = new() { Path =await item.FileCreateAsync(_environment.WebRootPath, "assets", "image"), ProductId = id };
+                existProduct.ProductImages.Add(productImage);
+
+            }
+        }
+        if (vm.MainImage is not null)
+            existProduct.ProductImages.FirstOrDefault(x=>x.IsMain).Path = await vm.MainImage.FileCreateAsync(_environment.WebRootPath, "assets", "image");
+        if (vm.HoverImage is not null)
+            existProduct.ProductImages.FirstOrDefault(x => x.IsHover).Path = await vm.HoverImage.FileCreateAsync(_environment.WebRootPath, "assets", "image");
+
+
+        existProduct.Name = vm.Name;
+        existProduct.Gender = vm.Gender;
+        existProduct.Price = vm.Price;
+        existProduct.CategoryId= vm.CategoryId;
+        existProduct.Size = vm.Size;
+        existProduct.Description = vm.Description;
+        existProduct.LensInformations = vm.LensInformations;
+
+
+        _context.Products.Update(existProduct);
+        await _context.SaveChangesAsync();
+
+        return RedirectToAction("Index");
+
+    }
 }

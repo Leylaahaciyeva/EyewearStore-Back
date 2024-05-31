@@ -1,0 +1,68 @@
+﻿@model List<Service>
+@{
+    int count = 1;
+}
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Services</h4>
+            <p class="card-description">
+                <a asp-action="Create" class="btn btn-success text-white">Create</a>
+            </p>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                #
+                            </th>
+                            <th>
+                                Icon
+                            </th>
+                            <th>
+                                Title
+                            </th>
+                            <th>
+                                Description
+                            </th>
+
+                            <th>
+                                Actions
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Service service in Model)
+                        {
+
+                            <tr>
+                                <td>
+                                    @(count++)
+                                </td>
+                                <td class="py-1">
+                                    <i class="@service.Icon"></i>
+                                </td>
+                                <td>
+                                    @service.Title
+                                </td>
+                                <td>
+                                    @service.Description
+                                </td>
+                                <td>
+                                    <a asp-action="Update" asp-route-id="@service.Id" class="btn btn-warning">
+                                        <i class="mdi mdi-auto-fix"></i>
+                                    </a>
+                                    <a asp-action="Delete" asp-route-id="@service.Id" class="btn btn-danger">
+                                        <i class="mdi mdi-delete-variant"></i>
+                                    </a>
+                                </td>   
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

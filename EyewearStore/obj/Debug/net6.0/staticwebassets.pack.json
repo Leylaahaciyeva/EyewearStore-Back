@@ -489,24 +489,56 @@
       "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
     },
     {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\048692af-c0ee-4491-9771-1272270c1312right-banner.png",
-      "PackagePath": "staticwebassets\\assets\\image\\048692af-c0ee-4491-9771-1272270c1312right-banner.png"
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\02ee647e-44f6-4458-873c-827a309ef920arrow-right-color.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\02ee647e-44f6-4458-873c-827a309ef920arrow-right-color.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\8fa3bcbf-a702-49cd-a7a0-a910b5759553telegram.png",
-      "PackagePath": "staticwebassets\\assets\\image\\8fa3bcbf-a702-49cd-a7a0-a910b5759553telegram.png"
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\03fc8ef1-ada2-4921-95d4-5448f92765fd253.png",
+      "PackagePath": "staticwebassets\\assets\\image\\03fc8ef1-ada2-4921-95d4-5448f92765fd253.png"
     },
     {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\91044906-7f89-4137-8f77-c071b491439cright-ban02.png",
-      "PackagePath": "staticwebassets\\assets\\image\\91044906-7f89-4137-8f77-c071b491439cright-ban02.png"
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\1f2953fa-f80c-41fd-a12d-39eb6d19b251arrow-right.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\1f2953fa-f80c-41fd-a12d-39eb6d19b251arrow-right.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\a0fcf6d5-991f-4a15-be99-93d9ccb2310e253.png",
-      "PackagePath": "staticwebassets\\assets\\image\\a0fcf6d5-991f-4a15-be99-93d9ccb2310e253.png"
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\39c2197e-a651-4ea1-86e4-e238ed9f4d76az-circle.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\39c2197e-a651-4ea1-86e4-e238ed9f4d76az-circle.svg"
     },
     {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\c7907fc0-a9b0-415e-9f9c-8de0ea5e8bbf253.png",
-      "PackagePath": "staticwebassets\\assets\\image\\c7907fc0-a9b0-415e-9f9c-8de0ea5e8bbf253.png"
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\44fe7346-c97b-4de2-b030-8aa7367dbfbfbag.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\44fe7346-c97b-4de2-b030-8aa7367dbfbfbag.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\787e678f-7b3e-42d7-8a83-5b57d63d8d3a253.png",
+      "PackagePath": "staticwebassets\\assets\\image\\787e678f-7b3e-42d7-8a83-5b57d63d8d3a253.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\811a0898-7c11-4ec3-9a5b-442de1296642background-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\811a0898-7c11-4ec3-9a5b-442de1296642background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\a711bf38-97f3-4628-af4f-62fb84988df6background-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\a711bf38-97f3-4628-af4f-62fb84988df6background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\b6d61ed9-810b-47ce-b4bf-686d50fc921cbag.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\b6d61ed9-810b-47ce-b4bf-686d50fc921cbag.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\e0c67326-bc23-4cfe-9f79-15a3b9d986a5box.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\e0c67326-bc23-4cfe-9f79-15a3b9d986a5box.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\eba9ba5d-adfc-47e3-8938-cd9d4e21a770az-flag.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\eba9ba5d-adfc-47e3-8938-cd9d4e21a770az-flag.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\ec35b509-bc8f-400f-9ecd-6c12d6fbf313253.png",
+      "PackagePath": "staticwebassets\\assets\\image\\ec35b509-bc8f-400f-9ecd-6c12d6fbf313253.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\f9e3fbdc-37ad-4823-860c-f6753c8b3150bag.svg",
+      "PackagePath": "staticwebassets\\assets\\image\\f9e3fbdc-37ad-4823-860c-f6753c8b3150bag.svg"
     },
     {
       "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\base\\_reset.scss",
@@ -567,234 +599,6 @@
     {
       "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_women.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\pages\\_women.scss"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EyewearStore.Microsoft.AspNetCore.StaticWebAssets.props",

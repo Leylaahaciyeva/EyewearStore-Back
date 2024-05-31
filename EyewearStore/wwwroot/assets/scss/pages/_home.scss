@@ -630,13 +630,11 @@
 @media only screen and (max-width: 850px) {
     .section5__text{
         width: 450px !important;
-        border: 2px solid red;
     }
 }
 @media only screen and (max-width: 500px) {
     .section5__text{
         width: 250px !important;
-        border: 2px solid red;
     }
 }
 .section55 {
@@ -726,8 +724,11 @@
 
 @media only screen and (max-width: 370px) {
   .section5{
-    // margin-top: 500px;
-  }
+width: 280px;
+}
+.section55{
+width: 100%;
+}
 
     }
 

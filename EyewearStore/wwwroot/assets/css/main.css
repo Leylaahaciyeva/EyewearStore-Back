@@ -236,7 +236,7 @@ img {
   opacity: 2;
   height: 800px;
   transition: 0.3s, border-radius 0.3s, opacity 0.3s;
-  background-color: rgba(221, 160, 221, 0.211);
+  background-color: rgb(221, 160, 221);
 }
 
 .img__div {
@@ -252,11 +252,11 @@ img {
   padding-top: 7em;
   position: absolute;
   /* width: 70%; */
-  top: 0;
-  left: 0;
+  top: 20;
+  left: 10;
   width: 70% !important;
   z-index: 156;
-  transform: translate(10%, 40%);
+  transform: translate(40%, 90%);
   display: flex;
   flex-direction: column;
   gap: 5px;
@@ -1023,6 +1023,7 @@ h1 {
 
 .about__top__text {
   width: 60%;
+  padding: 20px;
   /* border: 1px solid gray; */
 }
 .about__top__text p {
@@ -1390,7 +1391,7 @@ h1 {
   margin-left: 20px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   width: 600px;
-  height: 500px;
+  height: 600px;
   padding: 40px;
   /* h3 {
       margin-left: 40px;
@@ -1502,8 +1503,9 @@ h1 {
   .Send__mail__form {
     /* border: 2px solid red;*/
     /* width: 40%; */
-    width: 400px;
-    height: 450px;
+    width: 450px;
+    height: 550px;
+    padding: 20px;
   }
 }
 @media only screen and (max-width: 780px) {
@@ -1544,7 +1546,6 @@ h1 {
 
 .detail__section1 {
   width: 100%;
-  /* border: 1px solid red; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1552,22 +1553,21 @@ h1 {
 
 .detail__top__all {
   width: 90%;
-  /* border: 1px solid green; */
   display: flex;
   justify-content: center;
-  /* align-items: center;  */
   gap: 15px;
 }
 
 .detail__top__left {
   width: 50%;
-  /* border: 1px solid blue; */
   display: flex;
-  /* justify-content: center; */
-  /* align-items: center; */
   margin-top: 20px;
   gap: 10px;
   height: 100vh !important;
+}
+
+.detail__other__imgs::-webkit-scrollbar {
+  display: none !important;
 }
 
 .detail__other__imgs {
@@ -1575,7 +1575,8 @@ h1 {
   flex-direction: column;
   gap: 10px;
   width: 20%;
-  /* border: 5px solid brown; */
+  overflow-y: scroll;
+  height: 579px;
 }
 .detail__other__imgs img {
   width: 100%;
@@ -1583,7 +1584,6 @@ h1 {
 }
 
 .detail__top__img {
-  /* border: 1px solid yellow; */
   width: 100% !important;
 }
 .detail__top__img img {
@@ -1592,7 +1592,6 @@ h1 {
 
 .detail__top__right {
   width: 50%;
-  /* border: 1px solid green; */
   margin-top: 30px;
 }
 
@@ -1830,6 +1829,11 @@ img {
 @media only screen and (max-width: 770px) {
   .detailCard1 {
     width: 100% !important;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .addtoCard {
+    font-size: 15px !important;
   }
 }
 /* section2 design  */
@@ -2307,13 +2311,11 @@ img {
 @media only screen and (max-width: 850px) {
   .section5__text {
     width: 450px !important;
-    border: 2px solid red;
   }
 }
 @media only screen and (max-width: 500px) {
   .section5__text {
     width: 250px !important;
-    border: 2px solid red;
   }
 }
 .section55 {
@@ -2385,6 +2387,14 @@ img {
     font-size: 35px;
   }
   .section5__text {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 370px) {
+  .section5 {
+    width: 280px;
+  }
+  .section55 {
     width: 100%;
   }
 }
