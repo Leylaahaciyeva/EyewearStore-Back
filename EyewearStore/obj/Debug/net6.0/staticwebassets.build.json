@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aS0+lIVfarSZ7sYy1Btc8Xdl0cyv+T9pLANbf6+JvTE=",
+  "Hash": "IFdiJ+Bs/30Z1VR0HjnVi6r4ZNP6sb1nbcChMWxurRw=",
   "Source": "EyewearStore",
   "BasePath": "_content/EyewearStore",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EyewearStore\\wwwroot",
       "Source": "EyewearStore",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\css\\maps\\style.css.map",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/css/maps/style.css.map",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\maps\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\css\\style.css",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\css\\style.css",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/css/style.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\documentation\\documentation.html",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\documentation\\documentation.html",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/documentation/documentation.html",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\documentation\\documentation.html"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.eot",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.ttf",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.woff",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Black.woff2",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.eot",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Bold.woff2",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.eot",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.ttf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.woff",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Light.woff2",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.eot",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.woff",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Medium.woff2",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.eot",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.ttf",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.woff",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/fonts/Roboto/Roboto-Regular.woff2",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/auth/lockscreen-bg.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/auth/login-bg.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\login-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/auth/register-bg.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\auth\\register-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face1.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face1.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face10.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face10.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face10.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face11.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face11.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face11.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face12.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face12.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face12.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face13.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face13.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face13.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face14.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face14.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face14.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face15.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face15.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face15.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face16.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face16.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face16.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face17.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face17.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face17.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face18.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face18.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face18.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face19.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face19.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face19.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face2.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face2.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face20.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face20.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face20.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face21.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face21.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face21.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face22.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face22.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face22.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face23.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face23.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face23.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face24.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face24.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face24.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face25.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face25.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face25.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face26.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face26.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face26.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face27.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face27.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face27.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face3.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face3.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face4.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face4.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face5.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face5.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face6.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face6.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face7.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face7.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face8.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face8.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\faces\\face9.jpg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/faces/face9.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\faces\\face9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\favicon.png",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\favicon.png",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/favicon.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\logo.svg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\logo.svg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/logo.svg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\logo-mini.svg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\images\\logo-mini.svg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/images/logo-mini.svg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\images\\logo-mini.svg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\chart.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\chart.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/chart.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\Chart.min.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/Chart.min.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\dashboard.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\dashboard.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/dashboard.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\data-table.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\data-table.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/data-table.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\data-table.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\documentation.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\documentation.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/documentation.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\documentation.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\file-upload.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\file-upload.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/file-upload.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\file-upload.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\hoverable-collapse.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/hoverable-collapse.js",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\hoverable-collapse.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\jquery.cookie.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/jquery.cookie.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\jquery.cookie.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\jquery.dataTables.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/jquery.dataTables.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\off-canvas.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\off-canvas.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/off-canvas.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\off-canvas.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\tabs.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\tabs.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/tabs.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\tabs.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\template.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\js\\template.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/js/template.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\template.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\partials\\_footer.html",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\partials\\_footer.html",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/partials/_footer.html",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\partials\\_footer.html"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\partials\\_navbar.html",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\partials\\_navbar.html",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/partials/_navbar.html",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\partials\\_navbar.html"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\partials\\_settings-panel.html",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\partials\\_settings-panel.html",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/partials/_settings-panel.html",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\partials\\_settings-panel.html"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\partials\\_sidebar.html",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\partials\\_sidebar.html",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/partials/_sidebar.html",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\partials\\_sidebar.html"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_background.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_background.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_background.scss",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_background.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_demo.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_demo.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_demo.scss",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_demo.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_fonts.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_fonts.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_fonts.scss",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_footer.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_footer.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_footer.scss",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_functions.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_functions.scss",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_layouts.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_layouts.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_layouts.scss",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_layouts.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_misc.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_misc.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_misc.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_navbar.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_reset.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_reset.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_reset.scss",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_sidebar.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_sidebar.scss",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_sidebar.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_typography.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_typography.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_typography.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_typography.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_utilities.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_variables.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_variables.scss",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/_vertical-wrapper.scss",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_badges.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_badges.scss",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_bootstrap-progress.scss",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_buttons.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_cards.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_cards.scss",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_checkbox-radio.scss",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_dropdown.scss",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_forms.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_icons.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_icons.scss",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_lists.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_lists.scss",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\_tables.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/_tables.scss",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/components/plugin-overrides/_data-tables.scss",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/landing-screens/_auth.scss",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/mixins/_animation.scss",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_animation.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/mixins/_badges.scss",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_badges.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/mixins/_blockqoute.scss",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/mixins/_cards.scss",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_cards.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/mixins/_misc.scss",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\mixins\\_misc.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\style.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\scss\\style.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/scss/style.scss",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/base/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/base/vendor.bundle.base.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/chart.js/Chart.min.js",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/datatables.net/jquery.dataTables.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/mdi/css/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/mdi/css/materialdesignicons.min.css.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.svg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "admin/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\css\\main.css",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\css\\main.css",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/css/main.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\css\\main.css.map",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\css\\main.css.map",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/css/main.css.map",
       "AssetKind": "All",
@@ -2335,257 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\main.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\02ee647e-44f6-4458-873c-827a309ef920arrow-right-color.svg",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\base\\_reset.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/02ee647e-44f6-4458-873c-827a309ef920arrow-right-color.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\02ee647e-44f6-4458-873c-827a309ef920arrow-right-color.svg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\03fc8ef1-ada2-4921-95d4-5448f92765fd253.png",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/03fc8ef1-ada2-4921-95d4-5448f92765fd253.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\03fc8ef1-ada2-4921-95d4-5448f92765fd253.png"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\1f2953fa-f80c-41fd-a12d-39eb6d19b251arrow-right.svg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/1f2953fa-f80c-41fd-a12d-39eb6d19b251arrow-right.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\1f2953fa-f80c-41fd-a12d-39eb6d19b251arrow-right.svg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\39c2197e-a651-4ea1-86e4-e238ed9f4d76az-circle.svg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/39c2197e-a651-4ea1-86e4-e238ed9f4d76az-circle.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\39c2197e-a651-4ea1-86e4-e238ed9f4d76az-circle.svg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\44fe7346-c97b-4de2-b030-8aa7367dbfbfbag.svg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/44fe7346-c97b-4de2-b030-8aa7367dbfbfbag.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\44fe7346-c97b-4de2-b030-8aa7367dbfbfbag.svg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\787e678f-7b3e-42d7-8a83-5b57d63d8d3a253.png",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/787e678f-7b3e-42d7-8a83-5b57d63d8d3a253.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\787e678f-7b3e-42d7-8a83-5b57d63d8d3a253.png"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\811a0898-7c11-4ec3-9a5b-442de1296642background-img.jpg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/811a0898-7c11-4ec3-9a5b-442de1296642background-img.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\811a0898-7c11-4ec3-9a5b-442de1296642background-img.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\a711bf38-97f3-4628-af4f-62fb84988df6background-img.jpg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/a711bf38-97f3-4628-af4f-62fb84988df6background-img.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\a711bf38-97f3-4628-af4f-62fb84988df6background-img.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\b6d61ed9-810b-47ce-b4bf-686d50fc921cbag.svg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/b6d61ed9-810b-47ce-b4bf-686d50fc921cbag.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\b6d61ed9-810b-47ce-b4bf-686d50fc921cbag.svg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\e0c67326-bc23-4cfe-9f79-15a3b9d986a5box.svg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/e0c67326-bc23-4cfe-9f79-15a3b9d986a5box.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\e0c67326-bc23-4cfe-9f79-15a3b9d986a5box.svg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\eba9ba5d-adfc-47e3-8938-cd9d4e21a770az-flag.svg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/eba9ba5d-adfc-47e3-8938-cd9d4e21a770az-flag.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\eba9ba5d-adfc-47e3-8938-cd9d4e21a770az-flag.svg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\ec35b509-bc8f-400f-9ecd-6c12d6fbf313253.png",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/ec35b509-bc8f-400f-9ecd-6c12d6fbf313253.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\ec35b509-bc8f-400f-9ecd-6c12d6fbf313253.png"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\f9e3fbdc-37ad-4823-860c-f6753c8b3150bag.svg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/f9e3fbdc-37ad-4823-860c-f6753c8b3150bag.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\f9e3fbdc-37ad-4823-860c-f6753c8b3150bag.svg"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\base\\_reset.scss",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/base/_reset.scss",
       "AssetKind": "All",
@@ -2601,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\base\\_reset.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_aboutHeader.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_aboutHeader.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/layout/_aboutHeader.scss",
       "AssetKind": "All",
@@ -2620,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\layout\\_aboutHeader.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_contactHeader.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_contactHeader.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/layout/_contactHeader.scss",
       "AssetKind": "All",
@@ -2639,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\layout\\_contactHeader.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_detailHeader.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_detailHeader.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/layout/_detailHeader.scss",
       "AssetKind": "All",
@@ -2658,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\layout\\_detailHeader.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_footer.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_footer.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/layout/_footer.scss",
       "AssetKind": "All",
@@ -2677,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\layout\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_homeHeader.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_homeHeader.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/layout/_homeHeader.scss",
       "AssetKind": "All",
@@ -2696,10 +2449,29 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\layout\\_homeHeader.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_menHeader.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_loginHeader.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "BasePath": "_content/EyewearStore",
+      "RelativePath": "assets/scss/layout/_loginHeader.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\scss\\layout\\_loginHeader.scss"
+    },
+    {
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_menHeader.scss",
+      "SourceId": "EyewearStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/layout/_menHeader.scss",
       "AssetKind": "All",
@@ -2715,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\layout\\_menHeader.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_womenHeader.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\layout\\_womenHeader.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/layout/_womenHeader.scss",
       "AssetKind": "All",
@@ -2734,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\layout\\_womenHeader.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\main.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\main.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/main.scss",
       "AssetKind": "All",
@@ -2753,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\main.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_about.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_about.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/pages/_about.scss",
       "AssetKind": "All",
@@ -2772,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\pages\\_about.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_contact.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_contact.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/pages/_contact.scss",
       "AssetKind": "All",
@@ -2791,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\pages\\_contact.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_detail.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_detail.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/pages/_detail.scss",
       "AssetKind": "All",
@@ -2810,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\pages\\_detail.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_home.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_home.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/pages/_home.scss",
       "AssetKind": "All",
@@ -2829,10 +2601,29 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\pages\\_home.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_men.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_login.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "BasePath": "_content/EyewearStore",
+      "RelativePath": "assets/scss/pages/_login.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\scss\\pages\\_login.scss"
+    },
+    {
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_men.scss",
+      "SourceId": "EyewearStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/pages/_men.scss",
       "AssetKind": "All",
@@ -2848,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\scss\\pages\\_men.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_women.scss",
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\pages\\_women.scss",
       "SourceId": "EyewearStore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Desktop\\asiman\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
       "BasePath": "_content/EyewearStore",
       "RelativePath": "assets/scss/pages/_women.scss",
       "AssetKind": "All",

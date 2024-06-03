@@ -1,4 +1,7 @@
 using EyewearStore.Contexts;
+using EyewearStore.Models;
+using EyewearStore.Services;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace EyewearStore;
@@ -11,6 +14,25 @@ public class Program
 
         builder.Services.AddControllersWithViews();
         builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
+        builder.Services.AddScoped<IEmailService,EmailService>();
+
+
+        builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+        {
+
+            opt.User.RequireUniqueEmail = true;
+            opt.Password.RequiredLength = 6;
+            opt.Password.RequireNonAlphanumeric = false;
+            opt.Password.RequireDigit = false;
+            opt.Password.RequireUppercase = false;
+            opt.Password.RequireLowercase = false;
+
+            opt.SignIn.RequireConfirmedEmail = true;
+            opt.Lockout.AllowedForNewUsers = false;
+            opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+            opt.Lockout.MaxFailedAccessAttempts = 3;
+
+        }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
 
         var app = builder.Build();
 

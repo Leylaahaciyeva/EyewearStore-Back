@@ -1,0 +1,70 @@
+﻿@model RegisterVM
+<main>
+    <section class="section1_Contact">
+        <div class="img__div_Contact">
+            <img class="Contact__img"
+                 src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/bg-05.jpg"
+                 alt="">
+            <div class="inside_Contact">
+                <h1 class="text-center" style="width: 100%; "><strong>Register</strong></h1>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="Login__Section2__all">
+
+            <div class="Contact__sec2__right">
+                <form class="Send__mail__form" method="post" required>
+                  <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                    <div class="Mail__contact">
+                        <h3>Fullname</h3>
+                        <input asp-for="Fullname" type="text" required>
+                        <span class="text-danger" asp-validation-for="Fullname"></span>
+                    </div>
+
+                    <div class="Mail__contact">
+                        <h3>Username</h3>
+                        <input asp-for="Username" type="text" required>
+                        <span class="text-danger" asp-validation-for="Username"></span>
+
+                    </div>
+
+                    <div class="Mail__contact">
+                        <h3>Email</h3>
+                        <input asp-for="Email" type="email" required>
+                        <span class="text-danger" asp-validation-for="Email"></span>
+
+                    </div>
+
+                    <div class="Mail__contact">
+                        <h3>Password</h3>
+                        <input asp-for="Password" type="password" required>
+                        <span class="text-danger" asp-validation-for="Password"></span>
+
+                    </div>
+
+                    <div class="Mail__contact">
+                        <h3>Confirm Password</h3>
+                        <input asp-for="ConfirmPassword" type="password" required>
+                        <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+
+                    </div>
+
+                
+                    <div class="Contact__Submit">
+                        <button type="submit">Register</button>
+                    </div>
+
+
+                </form>
+            </div>
+            <div class="Login__Page">
+                <a asp-action="Loginr">Login Page</a>
+            </div>
+        </div>
+    </section>
+
+
+
+</main>
