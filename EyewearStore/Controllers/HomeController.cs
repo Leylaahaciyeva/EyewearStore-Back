@@ -1,16 +1,31 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using EyewearStore.Contexts;
+using EyewearStore.ViewModels;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace EyewearStore.Controllers;
 
 public class HomeController : Controller
 {
-    public IActionResult Index()
+    private readonly AppDbContext _context;
+
+    public HomeController(AppDbContext context)
     {
-        return View();
+        _context = context;
     }
 
+    public async Task<IActionResult> Index()
+    {
+        var trendProducts = await _context.Products.OrderByDescending(x => x.Price).Take(3).Include(x=>x.ProductImages).ToListAsync();
+        var services = await _context.Services.ToListAsync();
 
+        HomeVM vm = new()
+        {
+            Services = services,
+            Products = trendProducts
+        };
 
-
+        return View(vm);
+    }
 
 }

@@ -1,0 +1,63 @@
+﻿@model List<Product>
+<main>
+    <section class="Men__Section1">
+        <div class="Men__Sec1__all">
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <div class="Men__Sec1__top">Shop / Women</div>
+            <div class="MenSec1__buttom"><strong>Women</strong></div>
+        </div>
+    </section>
+    <section class="Mensection2">
+        <div class="container">
+            <div class="section2__difference">
+                <h5>Showing All @Model.Count result</h5>
+                <select name="" id="">
+                    <option value="">Default Sort</option>
+                    <option value="">Sort By Poputlity</option>
+                    <option value="">Sort by average rating</option>
+                    <option value="">Sort by latest</option>
+                    <option value="">Sort by price: low to high</option>
+
+                </select>
+            </div>
+            <div class="row men__Card__Row">
+                @foreach (Product product in Model)
+                {
+                    <div class="col-lg-4 col-md-6 mr-18 mb-3">
+                        <div class="card MenCard1" style="width: 23rem;">
+                            <a href="./Detail.html">
+                                <img src="~/assets//image/@product.ProductImages.FirstOrDefault(x=>x.IsMain)?.Path"
+                                     class="card-img-top" alt="...">
+                                <div class="men__Image">
+                                    <img src="~/assets//image/@product.ProductImages.FirstOrDefault(x=>x.IsHover)?.Path"
+                                         alt="">
+                                </div>
+                            </a>
+                            <div class="card-body">
+                                <h5 class="card-title">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    </h5>
+                                <h3>@product.Name</h3>
+                                <span> $ @product.Price</span>
+                                <span><del style="color: gray;">@(product.Price+21)$</del></span>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+
+            </div>
+        </div>
+
+
+    </section>
+</main>

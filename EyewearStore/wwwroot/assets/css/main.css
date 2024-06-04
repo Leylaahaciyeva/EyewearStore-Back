@@ -229,15 +229,15 @@ img {
 }
 /* section1 design  */
 .section1 {
-  position: relative;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url("https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/hero-01.png");
-  opacity: 2;
-  height: 800px;
-  transition: 0.3s, border-radius 0.3s, opacity 0.3s;
-  background-color: rgb(221, 160, 221);
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/hero-01.png");
+    opacity: 2;
+    height: 800px;
+    transition: 0.3s, border-radius 0.3s, opacity 0.3s;
+    background-color: rgb(226, 198, 198);
 }
 
 .img__div {
@@ -1940,6 +1940,7 @@ img {
 
 .detailCard1:hover img {
   display: none;
+  
 }
 .detailCard1:hover .salam {
   display: flex;

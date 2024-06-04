@@ -1,4 +1,4 @@
-﻿
+﻿@model HomeVM
     <main class="">
         <section class="section1">
             <div class="img__div">
@@ -140,97 +140,54 @@
                     <h1>Trending now</h1>
                 </div>
                 <div class="row">
+                    @foreach (Product product in Model.Products)
+                {
+                    
                     <div class="col-lg-4 col-md-6 mr-18 mb-3">
-                        <div class="card HomeCard1" style="width: 20rem;">
+                        <div class="card HomeCard1" style="width: 20rem;align-items:center">
                             <a href="./Detail.html">
-                                <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/product-10-a-600x600.jpg"
+                                <img src="~/assets/image/@product.ProductImages.FirstOrDefault(x=>x.IsMain)?.Path"
                                     class="card-img-top" alt="...">
-                                <div class="salam"><img
-                                        src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/product-10-b.jpg"
+                                <div class="salam"><img src="~/assets/image/@product.ProductImages.FirstOrDefault(x=>x.IsHover)?.Path"
                                         alt=""></div>
                             </a>
                             <div class="card-body">
-                                <h5 class="card-title"><i class="fa-solid fa-star"></i></h5>
-                                <h3>PRODUCT NAME 11</h3>
-                                <span> $ 1.88</span>
-                                <span><del style="color: gray;">1122$</del></span>
+                              
+                                <h5 class="card-title">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    </h5>
+                                <h3>@product.Name</h3>
+                                <span> $ @product.Price</span>
+                                <span><del style="color: gray;">@(product.Price+10)$</del></span>
                             </div>
                         </div>
                     </div>
+                }
 
-
-                    <div class="col-lg-4 col-md-6 mr-18 mb-3">
-                        <div class="card HomeCard1" style="width: 20rem;">
-                            <a href="./Detail.html">
-                                <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/product-10-a-600x600.jpg"
-                                    class="card-img-top" alt="...">
-                                <div class="salam"><img
-                                        src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/product-10-b.jpg"
-                                        alt=""></div>
-                            </a>
-                            <div class="card-body">
-                                <h5 class="card-title"><i class="fa-solid fa-star"></i></h5>
-                                <h3>PRODUCT NAME 11</h3>
-                                <span> $ 1.88</span>
-                                <span><del style="color: gray;">1122$</del></span>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="col-lg-4 col-md-6 mr-18 mb-3">
-                        <div class="card HomeCard1" style="width: 20rem;">
-                            <a href="./Detail.html">
-                                <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/product-10-a-600x600.jpg"
-                                    class="card-img-top" alt="...">
-                                <div class="salam"><img
-                                        src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/product-10-b.jpg"
-                                        alt=""></div>
-                            </a>
-                            <div class="card-body">
-                                <h5 class="card-title"><i class="fa-solid fa-star"></i></h5>
-                                <h3>PRODUCT NAME 11</h3>
-                                <span> $ 1.88</span>
-                                <span><del style="color: gray;">1122$</del></span>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
 
 
         </section>
         <section class="section8">
+         
             <div class="section8__all">
-                <div class="section8__first">
-                    <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/icon-001.png"
-                        alt="">
-                    <h3>Big discounts</h3>
+                @foreach (Service service in Model.Services)
+            {
+                <div class="section8__first" style="padding:30px;text-align:center">
+                   <i class="@service.Icon" style="font-size:30px"></i>
+                    <h3>@service.Title</h3>
                     <div class="section8text1">
-                        Integer euismod blandit nunc sit amet sollicitudin. Fusce quis orci viverra, cursus justo lipsum
-                        dolor.
+                      @service.Description
                     </div>
                 </div>
 
-                <div class="section8__first">
-                    <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/icon-002.png"
-                        alt="">
-                    <h3>Big discounts</h3>
-                    <div class="section8text2">
-                        Integer euismod blandit nunc sit amet sollicitudin. Fusce quis orci viverra, cursus justo lipsum
-                        dolor.
-                    </div>
-                </div>
+            }
 
-                <div class="section8__first">
-                    <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/icon-003.png"
-                        alt="">
-                    <h3>Big discounts</h3>
-                    <div class="section8text3">
-                        Integer euismod blandit nunc sit amet sollicitudin. Fusce quis orci viverra, cursus justo lipsum
-                        dolor.
-                    </div>
-                </div>
 
 
 

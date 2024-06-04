@@ -256,6 +256,8 @@ public class ProductController : Controller
                 {
 
                     existProduct.ProductImages.Remove(deletedImage);
+                    deletedImage.Path.FileDelete(_environment.WebRootPath, "assets", "image");
+
                 }
 
             }

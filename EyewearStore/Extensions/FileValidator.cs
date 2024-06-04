@@ -33,7 +33,7 @@ public static class FileValidator
         {
             path = Path.Combine(path, p);
         }
-        string fileName = Guid.NewGuid() + file.FileName;
+        string fileName = Guid.NewGuid() + file.FileName.Substring(file.FileName.LastIndexOf('.'));
 
         path = Path.Combine(path, fileName);
 
