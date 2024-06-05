@@ -98,7 +98,59 @@ public class AccountController : Controller
 
         var token = await _userManager.GenerateEmailConfirmationTokenAsync(newUser);
         var link = Url.Action("VerifyEmail", "Account", new { email = newUser.Email, token = token }, HttpContext.Request.Scheme);
-        _emailService.SendEmail(new EmailDto(body: link, subject: "Email Verification", to: vm.Email));
+
+
+        string emailBody = @$"
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+    <meta charset=""UTF-8"">
+    <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+    <title>Confirm Your Email Address</title>
+    <style>
+        body {{
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }}
+        .container {{
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: rgb(226, 198, 198);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }}
+        .message {{
+            color: #333;
+            margin-bottom: 20px;
+        }}
+        .confirmation-link {{
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }}
+        .confirmation-link:hover {{
+            background-color: #0056b3;
+        }}
+    </style>
+</head>
+<body>
+    <div class=""container"">
+        <p class=""message"">Dear User,</p>
+        <p class=""message"">Please click the following link to confirm your email address and complete your registration:</p>
+        <a href=""{link}"" class=""confirmation-link"">Confirm Email</a>
+        <p class=""message"">If you did not request this, please ignore this email.</p>
+        <p class=""message"">Regards,<br>Your Website Team</p>
+    </div>
+</body>
+</html>";
+
+        _emailService.SendEmail(new EmailDto(body: emailBody, subject: "Email Verification", to: vm.Email));
         TempData["VerifyEmail"] = "Confirmation mail sent!";
 
         return RedirectToAction("Login");

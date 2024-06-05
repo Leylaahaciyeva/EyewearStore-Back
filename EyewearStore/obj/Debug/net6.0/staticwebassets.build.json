@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MAdruSt5NjuIe8DK79nmX7ReGkEUJzz45Ts/nYjkwsI=",
+  "Hash": "dG2lamAJP/daoek54ztOuihyDI+soKmWSSaYgdAuzDU=",
   "Source": "EyewearStore",
   "BasePath": "_content/EyewearStore",
   "Mode": "Default",
@@ -2447,25 +2447,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\image\\4070d6c6-cb86-4f38-b929-c68dcc82b3c3.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\47c2631b-ac26-4bf0-9aa6-a91b4d4a0045.jpg",
-      "SourceId": "EyewearStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
-      "BasePath": "_content/EyewearStore",
-      "RelativePath": "assets/image/47c2631b-ac26-4bf0-9aa6-a91b4d4a0045.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\image\\47c2631b-ac26-4bf0-9aa6-a91b4d4a0045.jpg"
     },
     {
       "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\6e323d95-8400-4c20-ad94-fffc9f910caa.jpg",

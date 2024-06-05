@@ -15,6 +15,7 @@ public class Program
         builder.Services.AddControllersWithViews();
         builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
         builder.Services.AddScoped<IEmailService,EmailService>();
+        builder.Services.AddScoped<LayoutService>();
 
 
         builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
@@ -42,6 +43,7 @@ public class Program
 
         app.UseRouting();
 
+        app.UseAuthentication();
         app.UseAuthorization();
 
         app.UseEndpoints(endpoints =>

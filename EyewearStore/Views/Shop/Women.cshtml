@@ -14,7 +14,7 @@
     </section>
     <section class="Mensection2">
         <div class="container">
-            <div class="section2__difference">
+          @*   <div class="section2__difference">
                 <h5>Showing All @Model.Count result</h5>
                 <select name="" id="">
                     <option value="">Default Sort</option>
@@ -24,13 +24,13 @@
                     <option value="">Sort by price: low to high</option>
 
                 </select>
-            </div>
+            </div> *@
             <div class="row men__Card__Row">
                 @foreach (Product product in Model)
                 {
                     <div class="col-lg-4 col-md-6 mr-18 mb-3">
                         <div class="card MenCard1" style="width: 23rem;">
-                            <a href="./Detail.html">
+                            <a asp-action="Detail" asp-route-id="@product.Id">
                                 <img src="~/assets//image/@product.ProductImages.FirstOrDefault(x=>x.IsMain)?.Path"
                                      class="card-img-top" alt="...">
                                 <div class="men__Image">
@@ -48,7 +48,6 @@
                                     </h5>
                                 <h3>@product.Name</h3>
                                 <span> $ @product.Price</span>
-                                <span><del style="color: gray;">@(product.Price+21)$</del></span>
                             </div>
                         </div>
                     </div>

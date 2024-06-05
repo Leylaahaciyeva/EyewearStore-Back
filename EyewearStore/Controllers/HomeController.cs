@@ -22,7 +22,8 @@ public class HomeController : Controller
         HomeVM vm = new()
         {
             Services = services,
-            Products = trendProducts
+            Products = trendProducts,
+            BestProduct = await _context.Products.OrderByDescending(x => x.Id).Include(x=>x.ProductImages).FirstOrDefaultAsync() ?? new()
         };
 
         return View(vm);

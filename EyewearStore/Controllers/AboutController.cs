@@ -1,11 +1,21 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using EyewearStore.Contexts;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace EyewearStore.Controllers;
 
 public class AboutController : Controller
 {
-    public IActionResult Index()
+    private readonly AppDbContext _context;
+
+    public AboutController(AppDbContext context)
     {
-        return View();
+        _context = context;
+    }
+
+    public async Task<IActionResult> Index()
+    {
+        var services=await _context.Services.ToListAsync();
+        return View(services);
     }
 }

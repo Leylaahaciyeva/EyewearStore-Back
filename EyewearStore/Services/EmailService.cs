@@ -28,9 +28,7 @@ public class EmailService : IEmailService
         };
         mailMessage.To.Add(emailDto.to);
 
-        mailMessage.Body = @$"<a href={emailDto.body}     
-                    styles='border-radius:12px;text-decoration:none; background:gray; color:green;'>
-                                                                                                  Verify Email</a>";
+        mailMessage.Body =emailDto.body;
 
         smtpClient.Send(mailMessage);
     }

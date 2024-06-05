@@ -68,14 +68,13 @@
                 </div>
                 <div class="section4__right text-center">
                     <div class="section4__right__middle">
-                        <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/bg-04.jpg"
+                        <img src="~/assets//image/@Model.BestProduct.ProductImages.FirstOrDefault(x=>x.IsMain)?.Path"
                             alt="">
                         <div class="section4__right__middle__text">
-                            <h3 class="text-center">PRODUCT NAME 9</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec
-                                ullamcorper mattis, pulvinar dapibus leo.</p>
+                            <h3 class="text-center">@Model.BestProduct.Name</h3>
+                            <p>@Model.BestProduct.Description</p>
                             <div class="section4__buttondiv" style="width: 100%;">
-                                <strong>$ 1.1200</strong>
+                                <strong>$ @Model.BestProduct.Price</strong>
                                 <div class="section4__buttondiv2">
                                     <button>Shop Now</button>
                                 </div>
@@ -145,7 +144,7 @@
                     
                     <div class="col-lg-4 col-md-6 mr-18 mb-3">
                         <div class="card HomeCard1" style="width: 20rem;align-items:center">
-                            <a href="./Detail.html">
+                            <a asp-action="Detail" asp-controller="Shop" asp-route-id="@product.Id">
                                 <img src="~/assets/image/@product.ProductImages.FirstOrDefault(x=>x.IsMain)?.Path"
                                     class="card-img-top" alt="...">
                                 <div class="salam"><img src="~/assets/image/@product.ProductImages.FirstOrDefault(x=>x.IsHover)?.Path"
@@ -162,7 +161,6 @@
                                     </h5>
                                 <h3>@product.Name</h3>
                                 <span> $ @product.Price</span>
-                                <span><del style="color: gray;">@(product.Price+10)$</del></span>
                             </div>
                         </div>
                     </div>

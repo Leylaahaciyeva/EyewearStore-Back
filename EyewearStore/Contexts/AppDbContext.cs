@@ -14,5 +14,7 @@ public class AppDbContext : IdentityDbContext<AppUser>
     public DbSet<Category> Categories { get; set; } = null!;
     public DbSet<Service> Services { get; set; } = null!;
     public DbSet<Setting> Settings { get; set; } = null!;
+    public DbSet<Comment> Comments { get; set; } = null!;
+
 
 }

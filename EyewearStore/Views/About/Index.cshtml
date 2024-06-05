@@ -1,4 +1,5 @@
-﻿<main>
+﻿@model List<Service>
+<main>
     <section class="section1_ab">
         <div class="img__div_ab">
             <img class="about__img"
@@ -78,35 +79,19 @@
     </div>
     <section class="section8">
         <div class="section8__all">
-            <div class="section8__first">
-                <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/icon-001.png"
-                     alt="">
-                <h3>Big discounts</h3>
-                <div class="section8text1">
-                    Integer euismod blandit nunc sit amet sollicitudin. Fusce quis orci viverra, cursus justo lipsum
-                    dolor.
+            @foreach (Service service in Model)
+            {
+                <div class="section8__first" style="padding:30px;text-align:center">
+                    <i class="@service.Icon" style="font-size:30px"></i>
+                    <h3>@service.Title</h3>
+                    <div class="section8text1">
+                        @service.Description
+                    </div>
                 </div>
-            </div>
 
-            <div class="section8__first">
-                <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/icon-002.png"
-                     alt="">
-                <h3>Big discounts</h3>
-                <div class="section8text2">
-                    Integer euismod blandit nunc sit amet sollicitudin. Fusce quis orci viverra, cursus justo lipsum
-                    dolor.
-                </div>
-            </div>
+            }
 
-            <div class="section8__first">
-                <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/icon-003.png"
-                     alt="">
-                <h3>Big discounts</h3>
-                <div class="section8text3">
-                    Integer euismod blandit nunc sit amet sollicitudin. Fusce quis orci viverra, cursus justo lipsum
-                    dolor.
-                </div>
-            </div>
+
 
 
 

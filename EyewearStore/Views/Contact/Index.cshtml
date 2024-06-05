@@ -1,4 +1,11 @@
-﻿<main>
+﻿@using EyewearStore.Services
+@model ContactVM
+
+@inject LayoutService _layoutService
+@{
+    var settings = await _layoutService.GetSettingsAsync();
+}
+<main>
     <section class="section1_Contact">
         <div class="img__div_Contact">
             <img class="Contact__img"
@@ -10,43 +17,54 @@
         </div>
     </section>
 
+    <style>
+        input{
+            padding:5px;
+        }
+    </style>
     <section>
         <div class="Contact__Section2__all">
             <div class="Contact__sec2__left__container">
                 <div class="Contact__sec2__left">
                     <h3><strong>Get in touch</strong></h3>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id leo tempor, congue justo at,
-                        lobortis orci.
+                        @settings["contactText"]
                     </p>
-                    <a href="#"><i class="fa-solid fa-location-dot"></i>123 Fifth Avenue, New York, NY 10160</a>
-                    <a href="#"><i class="fa-solid fa-message"></i>contact@info.com</a>
-                    <a href="#"><i class="fa-solid fa-phone"></i>9-334-7565-9787</a>
+                    <a href="#"><i class="fa-solid fa-location-dot"></i>@settings["contactLocation"]</a>
+                    <a href="#"><i class="fa-solid fa-message"></i>@settings["contactEmail"]</a>
+                    <a href="#"><i class="fa-solid fa-phone"></i>@settings["contactPhoneNumber"]</a>
                 </div>
             </div>
             <div class="Contact__sec2__right">
-                <form class="Send__mail__form" action="">
-                    <h3 style="margin-left: 40px;">Name</h3>
+                <form class="Send__mail__form" method="post">
+                    <h3 style="margin-left: 40px;">Name and Surname</h3>
                     <div class="Name__contact">
                         <div class="Contact__nameBox">
-                            <input type="text">
-                            <p>first</p>
+                            <input required asp-for="Name" type="text">
+                            <label asp-for="Name">First</label>
+                            <span class="text-danger" asp-validation-for="Name"></span>
                         </div>
                         <div class="Contact__MailBox">
-                            <input type="text">
-                            <p>Secod</p>
+                            <input required asp-for="Surname" type="text">
+                            <label asp-for="Surname">Last</label>
+                            <span class="text-danger" asp-validation-for="Surname"></span>
+
                         </div>
                     </div>
                     <div class="Mail__contact">
                         <h3>Email</h3>
-                        <input type="text">
+                        <input required asp-for="Email" type="text">
+                        <span class="text-danger" asp-validation-for="Email"></span>
+
                     </div>
                     <div class="Contact__message__Box">
                         <h3>Message</h3>
-                        <textarea name="" id="" cols="30" rows="7"></textarea>
+                        <textarea required asp-for="Message" cols="30" rows="7"></textarea>
+                        <span class="text-danger" asp-validation-for="Message"></span>
+
                     </div>
                     <div class="Contact__Submit">
-                        <button>SEND</button>
+                        <button type="submit">SEND</button>
                     </div>
 
 
