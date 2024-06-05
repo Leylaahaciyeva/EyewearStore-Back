@@ -73,34 +73,11 @@
                             -
                         </button>
                     </div>
-                    <button class="addtoCard">Add to Card</button>
+                    <a style="border:1px solid black" asp-action="AddToBasket" asp-route-id="@Model.Product.Id" asp-route-returnUrl="@Context.Request.Path.Value" class="addtoCard">Add to Card</a>
                 </div>
                 <div class="differdivindetail"></div>
 
-                <script>
-                    const plusBtn = document.querySelector('.plusBtn');
-                    const minusBtn = document.querySelector('.minusBtn');
-                    const countOutput = document.querySelector('.countOutput');
 
-                    plusBtn.addEventListener('click', () => {
-                        let value = parseInt(countOutput.innerHTML);
-
-                        value++;
-                        countOutput.innerHTML = value;
-                    })
-
-                    minusBtn.addEventListener('click', () => {
-                        let value=parseInt(countOutput.innerHTML)
-
-                        if (value > 1) {
-                            value--;
-                        }
-
-                        countOutput.innerHTML = value;
-                    })
-
-
-                </script>
 
                 @*
                 <div class="categorydivindetail">Gender: @(Model.Product.Gender ? "Women" :"Men")</div>
@@ -330,11 +307,11 @@
                             </a>
                             <div class="card-body">
                                 <h5 class="card-title">
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
+                                    @for (int i = 0; i < product.Rating; i++)
+                                    {
+                                        <i style="color:yellow" class="fa-solid fa-star"></i>
+
+                                    }
                                 </h5>
                                 <h3>@product.Name</h3>
                                 <span> $ @product.Price</span>
@@ -383,4 +360,45 @@
         });
     });
 
+
+
+    const addToBasket = document.querySelector(".addtoCard");
+    const countOutput2 = document.querySelector('.countOutput');
+
+
+    addToBasket.addEventListener('click', async (e) => {
+        e.preventDefault();
+
+        let value = parseInt(countOutput2.innerHTML)
+
+        const response = await fetch)(addToBasket.href + `&count${value}`)
+
+
+
+        })
+
+</script>
+
+<script>
+
+    const plusBtn = document.querySelector('.plusBtn');
+    const minusBtn = document.querySelector('.minusBtn');
+    const countOutput = document.querySelector('.countOutput');
+
+    plusBtn.addEventListener('click', () => {
+        let value = parseInt(countOutput.innerHTML);
+
+        value++;
+        countOutput.innerHTML = value;
+    })
+
+    minusBtn.addEventListener('click', () => {
+        let value = parseInt(countOutput.innerHTML)
+
+        if (value > 1) {
+            value--;
+        }
+
+        countOutput.innerHTML = value;
+    })
 </script>

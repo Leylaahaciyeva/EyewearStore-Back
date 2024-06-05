@@ -76,7 +76,10 @@
                             <div class="section4__buttondiv" style="width: 100%;">
                                 <strong>$ @Model.BestProduct.Price</strong>
                                 <div class="section4__buttondiv2">
-                                    <button>Shop Now</button>
+                                    <button>
+
+                                    <a asp-action="Detail" asp-route-id="@Model.BestProduct.Id" asp-controller="Shop">Shop Now</a>
+                                    </button>
                                 </div>
                             </div>
                         </div>
@@ -153,11 +156,11 @@
                             <div class="card-body">
                               
                                 <h5 class="card-title">
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
+                                   @for (int i = 0; i < product.Rating; i++)
+                                    {
+                                        <i style="color:yellow" class="fa-solid fa-star"></i>
+
+                                    }
                                     </h5>
                                 <h3>@product.Name</h3>
                                 <span> $ @product.Price</span>

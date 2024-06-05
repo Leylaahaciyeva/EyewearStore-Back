@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dG2lamAJP/daoek54ztOuihyDI+soKmWSSaYgdAuzDU=",
+  "Hash": "9OchtvUlmBEsjbiN9ucHhp8RlHuAg1D0uO9YN1brAp4=",
   "Source": "EyewearStore",
   "BasePath": "_content/EyewearStore",
   "Mode": "Default",
@@ -2675,6 +2675,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\image\\fa126166-4f85-422e-8d44-df9e9f655c1a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\hero-01.png",
+      "SourceId": "EyewearStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\",
+      "BasePath": "_content/EyewearStore",
+      "RelativePath": "assets/image/hero-01.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\image\\hero-01.png"
     },
     {
       "Identity": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\base\\_reset.scss",

@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 using System.Security.Claims;
 using System.Text.RegularExpressions;
 
@@ -102,5 +103,86 @@ public class ShopController : Controller
 
         return RedirectToAction("Detail", new { id });
 
+    }
+
+
+    public async Task<IActionResult> AddToBasket(int id, string? returnUrl, int count = 1)
+    {
+        var product = await _context.Products.FirstOrDefaultAsync(x => x.Id == id);
+
+
+        if (product is null)
+            return NotFound();
+        if (count < 1)
+            count = 1;
+ 
+
+        if (User.Identity.IsAuthenticated)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var user = await _userManager.FindByIdAsync(userId);
+
+            if (user is null)
+                return BadRequest();
+
+            var dbBasketItems = await _context.BasketItems.Where(x => x.AppUserId == userId).ToListAsync();
+
+
+            var existBItem = dbBasketItems.FirstOrDefault(x => x.ProductId == id);
+            if (existBItem is not null)
+            {
+                existBItem.Count += count;
+                _context.BasketItems.Update(existBItem);
+            }
+            else
+            {
+                BasketItem bItem = new() { AppUserId = userId, ProductId = id, Count = count };
+
+
+                await _context.BasketItems.AddAsync(bItem);
+            }
+
+            await _context.SaveChangesAsync();
+        }
+        else
+        {
+
+
+            List<BasketItem> basketItems = GetBasket();
+
+            var existItem = basketItems.FirstOrDefault(x => x.ProductId == id);
+
+            if (existItem is not null)
+                existItem.Count += count;
+            else
+            {
+                BasketItem vm = new() { ProductId = id, Count = count };
+                basketItems.Add(vm);
+            }
+
+            var json = JsonConvert.SerializeObject(basketItems);
+            Response.Cookies.Append("basket", json);
+
+        }
+
+
+        if (returnUrl is not null)
+            return Redirect(returnUrl);
+
+        return RedirectToAction("Men");
+
+
+    }
+
+
+    private List<BasketItem> GetBasket()
+    {
+        List<BasketItem> basketItems = new();
+        if (Request.Cookies["basket"] != null)
+        {
+            basketItems = JsonConvert.DeserializeObject<List<BasketItem>>(Request.Cookies["basket"]) ?? new();
+        }
+
+        return basketItems;
     }
 }

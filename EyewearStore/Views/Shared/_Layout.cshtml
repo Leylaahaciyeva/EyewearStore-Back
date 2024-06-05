@@ -1,35 +1,54 @@
-﻿<!DOCTYPE html>
+﻿@using System.Security.Claims
+@using EyewearStore.Services
+@inject LayoutService _layoutService
+@{
+    var settings = await _layoutService.GetSettingsAsync();
+    var basketItems = await _layoutService.GetBasketAsync();
+    decimal total = 0;
+}
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Riccardo Eyewear</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
           integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
           crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" type="image/x-icon" href="~/assets//image/hero-01.png">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="~/assets/css/main.css">
 </head>
 
 <body>
+
+    <div class="overlay" id="searchOverlay">
+        <div class="closeSearch" id="closeSearch"><button><p><strong>X</strong></p></button></div>
+        <div class="Search__something">
+            <p>Start typing and press enter to search</p>
+            <input type="text" placeholder="Search....">
+        </div>
+    </div>
     <header class="header__all">
+
         <div class="home__header">
             <div class="header__left">
                 <div class="header__top">
-                    <a href="./Home.html">Home</a>
-                    <a href="./Women.html">Women</a>
-                    <a href="./Men.html">Men</a>
+                    <a asp-action="Index" asp-controller="Home">Home</a>
+                    <a asp-action="Women" asp-controller="Shop">Women</a>
+                    <a asp-action="Men" asp-controller="Shop">Men</a>
                 </div>
                 <div class="header__buttom">
-                    <a href="./Contact.html">Contact</a>
-                    <a href="./About.html">About us</a>
+                    <a asp-action="Index" asp-controller="Contact">Contact</a>
+                    <a asp-action="Index" asp-controller="About">About us</a>
                 </div>
 
             </div>
             <div class="header__middle">
-                <img src="https://websitedemos.net/eyewear-store-04/wp-content/uploads/sites/1121/2022/09/logo-header-retina.png"
+                <img src="@settings["headerLogo"]"
                      alt="">
 
 
@@ -43,9 +62,26 @@
             </div>
             <div class="header__right">
                 <ul>
-                    <li><i class="fa-solid fa-magnifying-glass"></i></li>
+                    <li id="openSearch"><i class="fa-solid fa-magnifying-glass"></i></li>
+
+
+
+                    <button class="btn btn-primary" style="background: none; border:none; color:gray " type="button"
+                            data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight2" aria-controls="offcanvasTop">
                     <li><i class="fa-solid fa-basket-shopping"></i></li>
-                    <li>Login</li>
+                    </button>
+
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li><a asp-action="Logout" asp-controller="Account">@User.FindFirstValue(ClaimTypes.Name)
+                            </a></li>
+                    }
+                    else
+                    {
+                    
+                    <li><a asp-action="Login" asp-controller="Account">Login</a></li>
+                    }
                 </ul>
             </div>
         </div>
@@ -64,19 +100,19 @@
                     <ul>
                         <li style="font-size: 25px;"><strong>About Us</strong></li>
                         <li>
-                            <a href="./Home.html">Home</a>
+                            <a asp-action="Index" asp-controller="Home">Home</a>
                         </li>
                         <li>
-                            <a href="./About.html">About</a>
+                            <a asp-action="Index" asp-controller="About">About</a>
                         </li>
                         <li>
-                            <a href="./Men.html">Men</a>
+                            <a asp-action="Men" asp-controller="Shop">Men</a>
                         </li>
                         <li>
-                            <a href="./Women.html">Women</a>
+                            <a asp-action="Women" asp-controller="Shop">Women</a>
                         </li>
                         <li>
-                            <a href="./Contact.html">Contact</a>
+                            <a asp-action="Index" asp-controller="Contact">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -87,19 +123,19 @@
                     <ul>
                         <li style="font-size: 25px;"><strong>Useful Links</strong></li>
                         <li>
-                            <a href="./Home.html">Privacy Policy</a>
+                            <a asp-action="Index" asp-controller="Home">Privacy Policy</a>
                         </li>
                         <li>
-                            <a href="./Home.html">Refund Policy</a>
+                            <a asp-action="Index" asp-controller="Home">Refund Policy</a>
                         </li>
                         <li>
-                            <a href="./Home.html">Shipping Informations</a>
+                            <a asp-action="Index" asp-controller="Home">Shipping Informations</a>
                         </li>
                         <li>
-                            <a href="./Home.html">Terms&Conditions</a>
+                            <a asp-action="Index" asp-controller="Home">Terms & Conditions</a>
                         </li>
                         <li>
-                            <a href="./Home.html">FAQ's</a>
+                            <a asp-action="Index" asp-controller="Home">FAQ's</a>
                         </li>
                     </ul>
                 </div>
@@ -109,9 +145,9 @@
                         <li>
                             <h3>Contact </h3>
                         </li>
-                        <li>123 Fifth Avenue, New York, NY 10160</li>
-                        <li>contact@info.com</li>
-                        <li>929-242-6868</li>
+                        <li>@settings["Location"]</li>
+                        <li>@settings["Email"]</li>
+                        <li>@settings["PhoneNumber"]</li>
                     </ul>
 
 
@@ -134,20 +170,134 @@
     <div style="z-index: 555555555555555555;" class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasTop"
          aria-labelledby="offcanvasTopLabel">
         <div class="offcanvas-header">
-            <h5 class="offcanvas-title" id="offcanvasTopLabel">Offcanvas top</h5>
+            <h5 class="offcanvas-title" id="offcanvasTopLabel">Navigates</h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
-            <a href="./Home.html">Home</a><br>
-            <a href="./Women.html">Women</a> <br>
-            <a href="./Men.html">Men</a><br>
-            <a href="./Contact.html">Contact</a><br>
-            <a href="./About.html">About us</a>
+            <a asp-action="Index" asp-controller="Home">Home</a><br>
+            <a asp-action="Women" asp-controller="Shop">Women</a> <br>
+            <a asp-action="Men" asp-controller="Shop">Men</a><br>
+            <a asp-action="Index" asp-controller="Contact">Contact</a><br>
+            <a asp-action="Index" asp-controller="About">About us</a>
+            @if (User.Identity.IsAuthenticated)
+            {
+                
+                    <a asp-action="Logout" asp-controller="Account">
+                        @User.FindFirstValue(ClaimTypes.Name)
+                    </a>
+                
+            }
+            else
+            {
+
+                <a asp-action="Login" asp-controller="Account">Login</a>
+            }
+            
+            <br>
+            <button class="btn btn-primary" style="background: none; border:none; color:gray " type="button"
+                    data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight2" aria-controls="offcanvasTop">
+                <i class="fa-solid fa-basket-shopping"></i>
+            </button>
+        </div>
+    </div>
+    <div style="z-index: 555555555555555555;" class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight2"
+         aria-labelledby="offcanvasRightLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasRightLabel"> Cart</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <div class="Basket__card__container">
+                @foreach (var item in basketItems)
+                {
+                    total += item.Count * item.Product.Price;
+                    <div class="basket__card">
+                        <img src="~/assets/image/@item.Product.ProductImages.FirstOrDefault(x=>x.IsMain)?.Path"
+                             alt="">
+                        <div class="Product__name">
+                            <h5>@item.Product.Name</h5>
+                            <div class="Basket__Products">
+                                <button class="BasketPlusBtn">+</button>
+                                <button class="BasketOutput">@item.Count</button>
+                                <button class="BasketMinusBtn">-</button>
+                            </div>
+                        </div>
+
+                        <div class="delete__btn__fromBasket">
+                            <i class="fa-regular fa-trash-can"></i>
+                            <p> $ @item.Product.Price </p>
+                        </div>
+
+                    </div>
+
+                }
+
+            </div>
+
+           
+            <div class="Payment">
+                <div class="Free"></div>
+
+                <div class="Subtotal">
+                    <h3>Subtotal</h3>
+                    <p>$@total</p>
+                </div>
+                <div class="Free"></div>
+                <div class="buttons__For__basket">
+                    <button><strong><a asp-action="Checout">CheckOut</a></strong></button>
+                </div>
+
+
+            </div>
+
+
+
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
             crossorigin="anonymous"></script>
+    <script>
+        const searchOverlay = document.getElementById('searchOverlay')
+        const openSearch = document.getElementById('openSearch')
+        const closeSearch = document.getElementById('closeSearch')
+
+        openSearch.addEventListener('click', () => {
+            searchOverlay.classList.add('openOverlay')
+        })
+
+        closeSearch.addEventListener('click', () => {
+            searchOverlay.classList.remove('openOverlay')
+        })
+    </script>
+
+    <script>
+        const plusBtns = document.querySelectorAll('.BasketPlusBtn');
+        const minusBtns = document.querySelectorAll('.BasketMinusBtn');
+        const outputs = document.querySelectorAll('.BasketOutput');
+
+
+
+        plusBtns.forEach((btn, i) => {
+            btn.addEventListener('click', () => {
+                let value = parseInt(outputs[i].innerHTML)
+
+                outputs[i].innerHTML = value + 1;
+            })
+        })
+
+        minusBtns.forEach((btn, i) => {
+            btn.addEventListener('click', () => {
+                let value = parseInt(outputs[i].innerHTML)
+                if (value > 1) {
+
+                    outputs[i].innerHTML = value - 1;
+                }
+            })
+        })
+
+    </script>
+
 </body>
 
 </html>

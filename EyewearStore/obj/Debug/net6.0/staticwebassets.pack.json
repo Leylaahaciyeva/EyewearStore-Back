@@ -561,6 +561,10 @@
       "PackagePath": "staticwebassets\\assets\\image\\fa126166-4f85-422e-8d44-df9e9f655c1a.jpg"
     },
     {
+      "Id": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\image\\hero-01.png",
+      "PackagePath": "staticwebassets\\assets\\image\\hero-01.png"
+    },
+    {
       "Id": "C:\\Users\\Asiman\\Desktop\\EyewearStore-Back\\EyewearStore\\wwwroot\\assets\\scss\\base\\_reset.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\base\\_reset.scss"
     },
